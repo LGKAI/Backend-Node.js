@@ -1,0 +1,25 @@
+{
+  "name": "full-backend-zero",
+  "version": "1.0.0",
+  "description": "Hoi dan IT fullstack backend zero",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./src/server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "LGKAI",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "16.0.3",
+    "ejs": "3.1.10",
+    "express": "4.21.2",
+    "mysql2": "2.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.20"
+  }
+}
