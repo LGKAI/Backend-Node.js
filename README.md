@@ -1,3 +1,3 @@
-# Lập trình web backend với Node.js - môi trường JavaScript
+# Web backend với Node.js
 
 Khoá học của Hỏi Dân IT
